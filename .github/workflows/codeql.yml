@@ -95,4 +95,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: codeql-sarif
-        path: /home/runner/work/50_question_2383322/results/java.sarif
+        path: /home/runner/work/50_question_2383322/results/csharp.sarif
